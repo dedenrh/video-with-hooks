@@ -1,0 +1,12 @@
+/* Submit Button */
+
+button.ui.submit.button {
+  margin-left: 10px;
+}
+
+/* Media Queries */
+@media only screen and (max-width: 768px) {
+  button.ui.submit.button {
+    display: none;
+  }
+}
